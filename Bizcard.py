@@ -4,10 +4,8 @@ from streamlit_option_menu import option_menu
 from PIL import Image
 import easyocr
 import re
-import cv2
 import numpy as np
 import io
-import psycopg2
 import pymysql
 
 
